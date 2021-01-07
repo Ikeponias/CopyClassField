@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.ikeponias.copyclassfield.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ikeponias.copyclassfield.MyBundle
 
 class MyProjectService(project: Project) {
 

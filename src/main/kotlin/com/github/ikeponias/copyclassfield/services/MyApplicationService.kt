@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ikeponias.copyclassfield.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ikeponias.copyclassfield.MyBundle
 
 class MyApplicationService {
 
